@@ -1,0 +1,2 @@
+# requerdosQr-UI
+CAPA FRONTEND RECUERDOSQR
